@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600);
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+/* Dashboard.css */
+.dashboard-heading {
+  font-size: 2em; /* Adjust the font size as needed */
+  color: #333; /* Set the desired text color */
+  /* Add any other styles you want for the heading */
+}

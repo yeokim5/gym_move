@@ -1,0 +1,1481 @@
+{
+  "Chest Exercises": [
+    {
+      "index": 0,
+      "body part": "chest",
+      "name": "Bar Dip",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Dips.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 1,
+      "body part": "chest",
+      "name": "Bench Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/09/bench-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 2,
+      "body part": "chest",
+      "name": "Cable Chest Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/cable-chest-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 3,
+      "body part": "chest",
+      "name": "Close-Grip Bench Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/09/Close-grip-bench-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 4,
+      "body part": "chest",
+      "name": "Close-Grip Feet-Up Bench Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Close-Grip-Feet-Up-Bench-Press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 5,
+      "body part": "chest",
+      "name": "Decline Bench Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Decline-Bench-Press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 6,
+      "body part": "chest",
+      "name": "Dumbbell Chest Fly",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Chest-Fly.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 7,
+      "body part": "chest",
+      "name": "Dumbbell Chest Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Chest-Press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 8,
+      "body part": "chest",
+      "name": "Dumbbell Decline Chest Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/02/dumbbell-decline-chest-press.gif?resize=600%2C601&ssl=1"
+    },
+    {
+      "index": 9,
+      "body part": "chest",
+      "name": "Dumbbell Floor Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/09/dumbbell-floor-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 10,
+      "body part": "chest",
+      "name": "Dumbbell Pullover",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Pullover.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 11,
+      "body part": "chest",
+      "name": "Feet-Up Bench Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/09/Feet-Up-Bench-Press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 12,
+      "body part": "chest",
+      "name": "Floor Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Floor-Press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 13,
+      "body part": "chest",
+      "name": "Incline Bench Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Incline-Bench-Press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 14,
+      "body part": "chest",
+      "name": "Incline Dumbbell Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Incline-Press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 15,
+      "body part": "chest",
+      "name": "Incline Push-Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/03/incline-push-up-exercise-technique.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 16,
+      "body part": "chest",
+      "name": "Kneeling Incline Push-Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/11/Kneeling-incline-push-up.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 17,
+      "body part": "chest",
+      "name": "Kneeling Push-Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Kneeling-push-ups.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 18,
+      "body part": "chest",
+      "name": "Machine Chest Fly",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/machine-chest-fly.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 19,
+      "body part": "chest",
+      "name": "Machine Chest Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/machine-chest-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 20,
+      "body part": "chest",
+      "name": "Pec Deck",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/pec-deck.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 21,
+      "body part": "chest",
+      "name": "Push-Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Push-up.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 22,
+      "body part": "chest",
+      "name": "Push-Up Against Wall",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/03/pushups-against-wall.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 23,
+      "body part": "chest",
+      "name": "Push-Ups With Feet in Rings",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/Push-ups-with-feet-in-rings.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 24,
+      "body part": "chest",
+      "name": "Resistance Band Chest Fly",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/10/resistance-band-chest-fly-ezgif.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 25,
+      "body part": "chest",
+      "name": "Smith Machine Bench Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/smith-machine-bench-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 26,
+      "body part": "chest",
+      "name": "Smith Machine Incline Bench Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/smith-machine-incline-bench-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 27,
+      "body part": "chest",
+      "name": "Standing Cable Chest Fly",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/cable-chest-fly.gif?resize=600%2C600&ssl=1"
+    }
+  ],
+  "Shoulder Exercises": [
+    {
+      "index": 28,
+      "body part": "shoulder",
+      "name": "Band External Shoulder Rotation",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/Band-shoulder-external-rotation.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 29,
+      "body part": "shoulder",
+      "name": "Band Internal Shoulder Rotation",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/Band-shoulder-internal-rotation.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 30,
+      "body part": "shoulder",
+      "name": "Band Pull-Apart",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/Band-Pull-Apart.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 31,
+      "body part": "shoulder",
+      "name": "Barbell Front Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Barbell-Front-Raise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 32,
+      "body part": "shoulder",
+      "name": "Barbell Rear Delt Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/01/Barbell-Rear-Delt-Row.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 33,
+      "body part": "shoulder",
+      "name": "Barbell Upright Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/11/Barbell-upright-row.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 34,
+      "body part": "shoulder",
+      "name": "Behind the Neck Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/01/Behind-the-neck-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 35,
+      "body part": "shoulder",
+      "name": "Cable Lateral Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/cable-lateral-raise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 36,
+      "body part": "shoulder",
+      "name": "Cable Rear Delt Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/cable-rear-delt-row.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 37,
+      "body part": "shoulder",
+      "name": "Dumbbell Front Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Front-Raise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 38,
+      "body part": "shoulder",
+      "name": "Dumbbell Horizontal Internal Shoulder Rotation",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/DB-horizontal-internal-shoulder-rotation.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 39,
+      "body part": "shoulder",
+      "name": "Dumbbell Horizontal External Shoulder Rotation",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/DB-standing-external-shoulder-rotation.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 40,
+      "body part": "shoulder",
+      "name": "Dumbbell Lateral Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/Dumbbell-Lateral-Raise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 41,
+      "body part": "shoulder",
+      "name": "Dumbbell Rear Delt Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/01/Dumbbell-Rear-Delt-Row.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 42,
+      "body part": "shoulder",
+      "name": "Dumbbell Shoulder Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Dumbbell-shoulder-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 43,
+      "body part": "shoulder",
+      "name": "Face Pull",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/05/face-pull.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 44,
+      "body part": "shoulder",
+      "name": "Front Hold",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/02/front-hold.jpg?resize=700%2C700&ssl=1"
+    },
+    {
+      "index": 45,
+      "body part": "shoulder",
+      "name": "Lying Dumbbell External Shoulder Rotation",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/Dumbbell-lying-external-shoulder-rotation.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 46,
+      "body part": "shoulder",
+      "name": "Lying Dumbbell Internal Shoulder Rotation",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/DB-lying-internal-shoulder-rotation-on-bench.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 47,
+      "body part": "shoulder",
+      "name": "Machine Lateral Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/lateral-raise-machine.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 48,
+      "body part": "shoulder",
+      "name": "Machine Shoulder Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/machine-shoulder-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 49,
+      "body part": "shoulder",
+      "name": "Monkey Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/09/monkey-row.gif?resize=526%2C526&ssl=1"
+    },
+    {
+      "index": 50,
+      "body part": "shoulder",
+      "name": "Overhead Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/Overhead-press-exercise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 51,
+      "body part": "shoulder",
+      "name": "Plate Front Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/Plate-front-raise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 52,
+      "body part": "shoulder",
+      "name": "Power Jerk",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/power-jerk.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 53,
+      "body part": "shoulder",
+      "name": "Push Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/push-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 54,
+      "body part": "shoulder",
+      "name": "Reverse Cable Flyes",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/08/Reverse-cable-fly.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 55,
+      "body part": "shoulder",
+      "name": "Reverse Dumbbell Flyes",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Reverse-dumbbell-flyes.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 56,
+      "body part": "shoulder",
+      "name": "Reverse Machine Fly",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/reverse-machine-fly.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 57,
+      "body part": "shoulder",
+      "name": "Seated Dumbbell Shoulder Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/11/Seated-dumbbell-shoulder-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 58,
+      "body part": "shoulder",
+      "name": "Seated Barbell Overhead Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/11/Seated-barbell-overhead-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 59,
+      "body part": "shoulder",
+      "name": "Seated Smith Machine Shoulder Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/smith-machine-shoulder-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 60,
+      "body part": "shoulder",
+      "name": "Snatch Grip Behind the Neck Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/01/snatch-grip-behind-the-neck-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 61,
+      "body part": "shoulder",
+      "name": "Squat Jerk",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/squat-jerk.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 62,
+      "body part": "shoulder",
+      "name": "Split Jerk",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/split-jerk.gif?resize=600%2C600&ssl=1"
+    }
+  ],
+  "Bicep Exercises": [
+    {
+      "index": 63,
+      "body part": "bicep",
+      "name": "Barbell Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/Barbell-biceps-curl.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 64,
+      "body part": "bicep",
+      "name": "Barbell Preacher Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/preacher-curl-barbell.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 65,
+      "body part": "bicep",
+      "name": "Bodyweight Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/02/Bodyweight-curls.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 66,
+      "body part": "bicep",
+      "name": "Cable Curl With Bar",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/cable-curl-with-handle.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 67,
+      "body part": "bicep",
+      "name": "Cable Curl With Rope",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/cable-curl-with-rope.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 68,
+      "body part": "bicep",
+      "name": "Concentration Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Concentration-curl.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 69,
+      "body part": "bicep",
+      "name": "Dumbbell Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Hantelcurl.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 70,
+      "body part": "bicep",
+      "name": "Dumbbell Preacher Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Preacher-Curl.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 71,
+      "body part": "bicep",
+      "name": "Hammer Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Hammer-curl.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 72,
+      "body part": "bicep",
+      "name": "Incline Dumbbell Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/Incline-Dumbbell-Curl.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 73,
+      "body part": "bicep",
+      "name": "Machine Bicep Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/Machine-biceps-curl.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 74,
+      "body part": "bicep",
+      "name": "Spider Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/09/spider-curl-does-whatever-a-spider-curl-does-2.gif?resize=600%2C600&ssl=1"
+    }
+  ],
+  "Triceps Exercises": [
+    {
+      "index": 75,
+      "body part": "triceps",
+      "name": "Barbell Standing Triceps Extension",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Barbell-Standing-Triceps-Extension.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 76,
+      "body part": "triceps",
+      "name": "Barbell Lying Triceps Extension",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Barbell-Lying-Tricep-Extension.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 77,
+      "body part": "triceps",
+      "name": "Bench Dip",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/12/C7251A7B-7A1B-47AE-A88C-7054692BCEF0.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 78,
+      "body part": "triceps",
+      "name": "Close-Grip Push-Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/09/close-grip-push-up.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 79,
+      "body part": "triceps",
+      "name": "Dumbbell Lying Triceps Extension",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/03/Lying-Dumbbell-Triceps-Extension-1.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 80,
+      "body part": "triceps",
+      "name": "Dumbbell Standing Triceps Extension",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Standing-Triceps-Extension.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 81,
+      "body part": "triceps",
+      "name": "Hammer Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Hammer-curl.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 82,
+      "body part": "triceps",
+      "name": "Overhead Cable Triceps Extension",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/cable-rope-overhead-triceps-extension.gif?resize=600%2C652&ssl=1"
+    },
+    {
+      "index": 83,
+      "body part": "triceps",
+      "name": "Tricep Bodyweight Extension",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/02/Bodyweight-triceps-extension.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 84,
+      "body part": "triceps",
+      "name": "Tricep Pushdown With Bar",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/triceps-pushdown-with-straight-handle.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 85,
+      "body part": "triceps",
+      "name": "Tricep Pushdown With Rope",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/triceps-pushdown-with-rope.gif?resize=600%2C600&ssl=1"
+    }
+  ],
+  "Leg Exercises": [
+    {
+      "index": 86,
+      "body part": "legs",
+      "name": "Air Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Air-squat.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 87,
+      "body part": "legs",
+      "name": "Barbell Hack Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/04/Barbell-Hack-Squat-Exercise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 88,
+      "body part": "legs",
+      "name": "Barbell Lunge",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Barbell-Lunge.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 89,
+      "body part": "legs",
+      "name": "Barbell Walking Lunge",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/02/Barbell-walking-lunges.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 90,
+      "body part": "legs",
+      "name": "Belt Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/belt-squat.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 91,
+      "body part": "legs",
+      "name": "Body Weight Lunge",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/09/Bodyweight-Lunge-exercise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 92,
+      "body part": "legs",
+      "name": "Box Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/Box-Squat.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 93,
+      "body part": "legs",
+      "name": "Bulgarian Split Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/02/Bulgarian-split-squat-barbell.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 94,
+      "body part": "legs",
+      "name": "Chair Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/03/chair-squats.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 95,
+      "body part": "legs",
+      "name": "Dumbbell Lunge",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Lunge.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 96,
+      "body part": "legs",
+      "name": "Dumbbell Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Squat.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 97,
+      "body part": "legs",
+      "name": "Front Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/09/Front-squat.gif?resize=600%2C595&ssl=1"
+    },
+    {
+      "index": 98,
+      "body part": "legs",
+      "name": "Goblet Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Goblet-squat.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 99,
+      "body part": "legs",
+      "name": "Hack Squat Machine",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/hack-squat-machine.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 100,
+      "body part": "legs",
+      "name": "Half Air Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/03/half-air-squats.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 101,
+      "body part": "legs",
+      "name": "Hip Adduction Machine",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/hip-adduction-machine.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 102,
+      "body part": "legs",
+      "name": "Landmine Hack Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/04/Landmine-Hack-Squat-Exercise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 103,
+      "body part": "legs",
+      "name": "Landmine Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/04/Landmine-Squat-Exercise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 104,
+      "body part": "legs",
+      "name": "Leg Extension",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/leg-extension-seated.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 105,
+      "body part": "legs",
+      "name": "Leg Press",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/leg-press.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 106,
+      "body part": "legs",
+      "name": "Lying Leg Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/leg-curl-lying.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 107,
+      "body part": "legs",
+      "name": "Pause Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/Pause-squat.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 108,
+      "body part": "legs",
+      "name": "Romanian Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/01/Romanian-deadlift.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 109,
+      "body part": "legs",
+      "name": "Safety Bar Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/11/safetybar-squat.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 110,
+      "body part": "legs",
+      "name": "Seated Leg Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/leg-curl-seated.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 111,
+      "body part": "legs",
+      "name": "Shallow Body Weight Lunge",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/03/shallow-lunges-bw.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 112,
+      "body part": "legs",
+      "name": "Side Lunges (Bodyweight)",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/06/Side-lunges.gif?resize=566%2C566&ssl=1"
+    },
+    {
+      "index": 113,
+      "body part": "legs",
+      "name": "Smith Machine Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/smith-machine-squat.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 114,
+      "body part": "legs",
+      "name": "Squat",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/11/squat.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 115,
+      "body part": "legs",
+      "name": "Step Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/03/step-up-exercise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 116,
+      "body part": "legs",
+      "name": "Eccentric Heel Drop",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/11/Eccentric-heel-raise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 117,
+      "body part": "legs",
+      "name": "Heel Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/11/Heel-raise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 118,
+      "body part": "legs",
+      "name": "Seated Calf Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/calf-raise-seated.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 119,
+      "body part": "legs",
+      "name": "Standing Calf Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/calf-raise-standing.gif?resize=600%2C600&ssl=1"
+    }
+  ],
+  "Back Exercises": [
+    {
+      "index": 120,
+      "body part": "back",
+      "name": "Back Extension",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/05/back-extension-frontloaded.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 121,
+      "body part": "back",
+      "name": "Barbell Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/03/Barbell-Row.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 122,
+      "body part": "back",
+      "name": "Barbell Shrug",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Barbell-Shrug.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 123,
+      "body part": "back",
+      "name": "Block Snatch",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/01/block-snatch.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 124,
+      "body part": "back",
+      "name": "Cable Close Grip Seated Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/cable-row-seated-narrow-grip.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 125,
+      "body part": "back",
+      "name": "Cable Wide Grip Seated Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/cable-row-seated-wide-grip.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 126,
+      "body part": "back",
+      "name": "Chin-Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/chin-up.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 127,
+      "body part": "back",
+      "name": "Clean",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/clean.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 128,
+      "body part": "back",
+      "name": "Clean and Jerk",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/clean-and-jerk.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 129,
+      "body part": "back",
+      "name": "Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/11/Deadlift.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 130,
+      "body part": "back",
+      "name": "Deficit Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Defifict-deadlift.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 131,
+      "body part": "back",
+      "name": "Dumbbell Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/dumbbell-deadlift.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 132,
+      "body part": "back",
+      "name": "Dumbbell Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Row.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 133,
+      "body part": "back",
+      "name": "Dumbbell Shrug",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Shrug.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 134,
+      "body part": "back",
+      "name": "Floor Back Extension",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/03/floor-back-extension.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 135,
+      "body part": "back",
+      "name": "Good Morning",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Good-morning.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 136,
+      "body part": "back",
+      "name": "Hang Clean",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/hang-clean.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 137,
+      "body part": "back",
+      "name": "Hang Power Clean",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/hang-power-clean.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 138,
+      "body part": "back",
+      "name": "Hang Power Snatch",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/hang-power-snatch.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 139,
+      "body part": "back",
+      "name": "Hang Snatch",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/hang-snatch.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 140,
+      "body part": "back",
+      "name": "Inverted Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/hangande-rodd-overhandsgrepp.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 141,
+      "body part": "back",
+      "name": "Inverted Row with Underhand Grip",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/03/inverted-row-with-underhand-grip-new.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 142,
+      "body part": "back",
+      "name": "Jefferson Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/09/Jefferson-Curl.gif?resize=576%2C1024&ssl=1"
+    },
+    {
+      "index": 143,
+      "body part": "back",
+      "name": "Kettlebell Swing",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Kettlebellsving.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 144,
+      "body part": "back",
+      "name": "Lat Pulldown With Pronated Grip",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/lat-pulldown-with-pronated-grip.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 145,
+      "body part": "back",
+      "name": "Lat Pulldown With Supinated Grip",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/lat-pulldown-with-supinated-grip.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 146,
+      "body part": "back",
+      "name": "One-Handed Cable Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/cable-row-seated-single-arm.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 147,
+      "body part": "back",
+      "name": "One-Handed Lat Pulldown",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/lat-pulldown-single-arm.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 148,
+      "body part": "back",
+      "name": "Pause Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Pause-deadlift.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 149,
+      "body part": "back",
+      "name": "Pendlay Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/pendlay-row.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 150,
+      "body part": "back",
+      "name": "Power Clean",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/power-clean.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 151,
+      "body part": "back",
+      "name": "Power Snatch",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/power-snatch.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 152,
+      "body part": "back",
+      "name": "Pull-Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/pull-up.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 153,
+      "body part": "back",
+      "name": "Rack Pull",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Rack-pull.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 154,
+      "body part": "back",
+      "name": "Seal Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/seal-row.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 155,
+      "body part": "back",
+      "name": "Seated Machine Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/seated-machine-row.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 156,
+      "body part": "back",
+      "name": "Snatch",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/snatch.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 157,
+      "body part": "back",
+      "name": "Snatch Grip Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/snatch-deadlift.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 158,
+      "body part": "back",
+      "name": "Stiff-Legged Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/10/stiff-leg-deadlifts.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 159,
+      "body part": "back",
+      "name": "Straight Arm Lat Pulldown",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/Straight-arm-lat-pulldown.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 160,
+      "body part": "back",
+      "name": "Sumo Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/Sumo-deadlift.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 161,
+      "body part": "back",
+      "name": "T-Bar Row",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/t-bar-row-machine.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 162,
+      "body part": "back",
+      "name": "Trap Bar Deadlift With High Handles",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Trap-Bar-Deadlift-With-High-Handles.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 163,
+      "body part": "back",
+      "name": "Trap Bar Deadlift With Low Handles",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Trap-Bar-Deadlift-With-Low-Handles.gif?resize=600%2C600&ssl=1"
+    }
+  ],
+  "Glute Exercises": [
+    {
+      "index": 164,
+      "body part": "glutes",
+      "name": "Banded Side Kicks",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Banded-Side-Kick.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 165,
+      "body part": "glutes",
+      "name": "Cable Pull Through",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/cable-pull-through.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 166,
+      "body part": "glutes",
+      "name": "Clamshells",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/06/Musslan.gif?resize=506%2C506&ssl=1"
+    },
+    {
+      "index": 167,
+      "body part": "glutes",
+      "name": "Dumbbell Romanian Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/09/romanian-deadlift-with-dumbbells.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 168,
+      "body part": "glutes",
+      "name": "Dumbbell Frog Pumps",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/Dumbbell-frog-pump.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 169,
+      "body part": "glutes",
+      "name": "Fire Hydrants",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/06/Fire-Hydrants.gif?resize=510%2C510&ssl=1"
+    },
+    {
+      "index": 170,
+      "body part": "glutes",
+      "name": "Frog Pumps",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/Frog-pump.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 171,
+      "body part": "glutes",
+      "name": "Glute Bridge",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/06/Glute-Bridge.gif?resize=522%2C522&ssl=1"
+    },
+    {
+      "index": 172,
+      "body part": "glutes",
+      "name": "Hip Abduction Against Band",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Band-Seated-Hip-Abduction.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 173,
+      "body part": "glutes",
+      "name": "Hip Abduction Machine",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/hip-abduction-machine.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 174,
+      "body part": "glutes",
+      "name": "Hip Thrust",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Hip-thrust.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 175,
+      "body part": "glutes",
+      "name": "Hip Thrust Machine",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/hip-thrust-machine.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 176,
+      "body part": "glutes",
+      "name": "Hammer Curl",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Hammer-curl.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 177,
+      "body part": "glutes",
+      "name": "Hip Thrust With Band Around Knees",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Hip-thrust-with-band-around-knees.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 178,
+      "body part": "glutes",
+      "name": "Lateral Walk With Band",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Banded-Side-Step.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 179,
+      "body part": "glutes",
+      "name": "Machine Glute Kickbacks",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/machine-glute-kickback.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 180,
+      "body part": "glutes",
+      "name": "One-Legged Glute Bridge",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/09/One-legged-glute-bridge.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 181,
+      "body part": "glutes",
+      "name": "One-Legged Hip Thrust",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/06/One-Legged-Hip-Thrust.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 182,
+      "body part": "glutes",
+      "name": "Romanian Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/01/Romanian-deadlift.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 183,
+      "body part": "glutes",
+      "name": "Single Leg Romanian Deadlift",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/Single-leg-romanian-deadlift.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 184,
+      "body part": "glutes",
+      "name": "Standing Glute Kickback in Machine",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/Standing-glute-kickback-in-machine-1.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 185,
+      "body part": "glutes",
+      "name": "Step Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/03/step-up-exercise.gif?resize=600%2C600&ssl=1"
+    }
+  ],
+  "Ab Exercises": [
+    {
+      "index": 186,
+      "body part": "abs",
+      "name": "Cable Crunch",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/cable-crunch.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 187,
+      "body part": "abs",
+      "name": "Crunch",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/Crunch.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 188,
+      "body part": "abs",
+      "name": "Dead Bug",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/deadbug.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 189,
+      "body part": "abs",
+      "name": "Hanging Leg Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/hanging-leg-raise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 190,
+      "body part": "abs",
+      "name": "Hanging Knee Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/hanging-knee-raise.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 191,
+      "body part": "abs",
+      "name": "Hanging Sit-Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/04/hanging-sit-up.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 192,
+      "body part": "abs",
+      "name": "High to Low Wood Chop with Band",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/01/Band-Wood-Chop-High-to-Low.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 193,
+      "body part": "abs",
+      "name": "Horizontal Wood Chop with Band",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/01/Band-Wood-Chop-Horizontal.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 194,
+      "body part": "abs",
+      "name": "Kneeling Ab Wheel Roll-Out",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/05/kneeling-ab-wheel.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 195,
+      "body part": "abs",
+      "name": "Kneeling Plank",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/knastaende-planka.jpg?resize=700%2C700&ssl=1"
+    },
+    {
+      "index": 196,
+      "body part": "abs",
+      "name": "Kneeling Side Plank",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/Kneeling-side-plank.jpg?resize=700%2C700&ssl=1"
+    },
+    {
+      "index": 197,
+      "body part": "abs",
+      "name": "Lying Leg Raise",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/lying-leg-raises.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 198,
+      "body part": "abs",
+      "name": "Lying Windshield Wiper",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/01/Lying-Windshield-Wipers-1.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 199,
+      "body part": "abs",
+      "name": "Lying Windshield Wiper with Bent Knees",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/01/Lying-Windshield-Wipers-with-Bent-Knees.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 200,
+      "body part": "abs",
+      "name": "Machine Crunch",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/machine-crunch.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 201,
+      "body part": "abs",
+      "name": "Mountain Climbers",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/01/Mountain-climbers.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 202,
+      "body part": "abs",
+      "name": "Oblique Crunch",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/Oblique-crunch.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 203,
+      "body part": "abs",
+      "name": "Oblique Sit-Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/12/Oblique-sit-up.gif?resize=600%2C600&ssl=1"
+    },
+    {
+      "index": 204,
+      "body part": "abs",
+      "name": "Plank",
+      "star": false,
+      "link": "https://i2.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Plank.jpg?fit=1024%2C1024&ssl=1"
+    },
+    {
+      "index": 205,
+      "body part": "abs",
+      "name": "Side Plank",
+      "star": false,
+      "link": "https://i1.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Side-plank.jpg?fit=1024%2C1024&ssl=1"
+    },
+    {
+      "index": 206,
+      "body part": "abs",
+      "name": "Sit-Up",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Sit-up.gif?resize=600%2C600&ssl=1"
+    }
+  ],
+  "Cardio Exercises": [
+    {
+      "index": 207,
+      "name": "Rowing Machine",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/06/Rowing-machine-muscles-worked.jpg?fit=2247%2C1498&ssl=1"
+    },
+    {
+      "index": 208,
+      "name": "Stationary Bike",
+      "star": false,
+      "link": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2023/06/Stationary-bike-workout-muscles.jpg?fit=2285%2C1524&ssl=1"
+    }
+  ]
+}

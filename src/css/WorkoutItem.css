@@ -1,0 +1,67 @@
+/* WorkoutItem.css */
+.workout-cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.workout-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.workout-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.workout-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+  display: block;
+  transition: color 0.15s ease-in-out;
+}
+.workout-name:hover {
+  color: #be55ff; /* Change this color to the desired gradient */
+}
+
+.delete-button {
+  background-color: #ff5555;
+  color: #fff;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+.delete-button:hover {
+  background-color: #ff3333; /* Change this color to the desired gradient */
+  color: #fff;
+}
+
+.workout-description {
+  color: #666;
+}
+
+.exercise-list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.exercise-name {
+  font-size: 1em;
+  color: #444;
+  margin-bottom: 5px;
+}
+
+.delete-form {
+  margin-top: 10px;
+}

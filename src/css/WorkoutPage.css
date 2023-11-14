@@ -1,0 +1,38 @@
+.exercise-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 20px;
+  text-align: center;
+  width: 200px; /* Set the desired width */
+  height: 300px; /* Set the desired height */
+  border-radius: 20px;
+}
+.card.selected {
+  background: linear-gradient(
+    106.5deg,
+    rgba(255, 215, 185, 0.91) 23%,
+    rgba(223, 159, 247, 0.8) 93%
+  );
+  /* Add any other styles for the selected card */
+}
+
+.card:hover {
+  cursor: pointer;
+  /* Add any styles for the card on hover */
+}
+
+.card h2 {
+  margin-bottom: 10px;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  max-height: 200px; /* Set the desired max height for the image */
+}
