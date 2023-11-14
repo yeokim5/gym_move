@@ -104,7 +104,7 @@ const ExerciseGridForm = ({
       {showPopup && (
         <div className="exercise-popup">
           <div className="popup-image-container">
-            <img src={popupContent} alt="Exercise" />
+            <img src={popupContent} alt="Exercise" loading="lazy" />
           </div>
         </div>
       )}

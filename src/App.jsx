@@ -10,7 +10,7 @@ import WorkoutPage, { routineLoader } from "./pages/WorkoutPage";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/gym_move/",
     element: <Main />,
     loader: mainLoader,
     errorElement: <Error />,
@@ -27,7 +27,7 @@ const router = createBrowserRouter([
         action: logoutAction,
       },
       {
-        path: "workout/:id",
+        path: "/gym_move/workout/:id",
         element: <WorkoutPage />,
         loader: routineLoader,
       },

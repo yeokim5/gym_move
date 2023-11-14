@@ -49,7 +49,7 @@ const NavContainer = styled.div`
 const Nav = ({ userName }) => {
   return (
     <NavContainer>
-      <NavLink to="/" aria-label="Go to home">
+      <NavLink to="/gym_move/" aria-label="Go to home">
         <CgGym />
         <span>GYM Routine</span>
       </NavLink>

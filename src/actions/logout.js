@@ -8,5 +8,5 @@ export async function logoutAction() {
   deleteItem({ key: "workouts" });
   toast.success("Deleted Account");
   // return redirect
-  return redirect("/");
+  return redirect("/gym_move/");
 }

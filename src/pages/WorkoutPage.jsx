@@ -76,7 +76,7 @@ const WorkoutPage = () => {
             onClick={() => handleCardClick(index)}
           >
             <h2>{exercise.name}</h2>
-            <img src={exercise.link} alt={exercise.name} />
+            <img src={exercise.link} alt={exercise.name} loading="lazy" />
           </div>
         ))}
       </div>

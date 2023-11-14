@@ -23,7 +23,7 @@ const WorkoutItem = ({ workout }) => {
   return (
     <div className="workout-card">
       <div className="workout-info">
-        <Link to={`/workout/${workout.id}`} className="workout-name">
+        <Link to={`/gym_move/workout/${workout.id}`} className="workout-name">
           {workout.name}
         </Link>
         <fetcher.Form method="post" className="delete-form">

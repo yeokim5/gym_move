@@ -10,7 +10,7 @@ const Error = () => {
       <p>{error.message || error.statusText}</p>
       <div>
         <button onClick={() => navigate(-1)}>Go Back</button>
-        <Link to="/">
+        <Link to="/gym_move/">
           <span>Go Home</span>
         </Link>
       </div>
