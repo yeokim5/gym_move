@@ -77,8 +77,16 @@ const SavedWorkout = styled.h3`
   font-size: 16px;
   margin-top: 10px;
 `;
+<h1>hi</h1>;
 
-const AddWorkoutForm = ({ closeModal, closeStyle }) => {
+const AddWorkoutForm = ({
+  closeModal,
+  closeStyle,
+  setShowPopup,
+  showPopup,
+  popupContent,
+  setPopupContent,
+}) => {
   const formRef = useRef();
   const focusRef = useRef();
   const fetcher = useFetcher();
@@ -135,8 +143,11 @@ const AddWorkoutForm = ({ closeModal, closeStyle }) => {
           setExerciseList={setExerciseList}
           exerciseListIndex={exerciseListIndex}
           setExerciseListIndex={setExerciseListIndex}
+          setShowPopup={setShowPopup}
+          setPopupContent={setPopupContent}
+          showPopup={showPopup}
+          popupContent={popupContent}
         />
-
         <input type="hidden" name="exercise" value={exerciseListIndex} />
         <input type="hidden" name="_action" value="newWorkout" />
 

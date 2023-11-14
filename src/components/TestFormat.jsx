@@ -6,16 +6,13 @@ class TestFormat extends Component {
     this.state = {
       step: 1,
       formData: {
-        // Initialize form data here
         firstName: "",
         lastName: "",
         email: "",
-        // Add more fields as needed
       },
     };
   }
 
-  // Function to handle form field changes
   handleFieldChange = (fieldName, value) => {
     this.setState((prevState) => ({
       formData: {
@@ -25,23 +22,19 @@ class TestFormat extends Component {
     }));
   };
 
-  // Function to go to the next step
   nextStep = () => {
     this.setState((prevState) => ({
       step: prevState.step + 1,
     }));
   };
 
-  // Function to go to the previous step
   prevStep = () => {
     this.setState((prevState) => ({
       step: prevState.step - 1,
     }));
   };
 
-  // Function to submit the form data
   submitForm = () => {
-    // You can submit the formData to a server or perform any other necessary actions here
     console.log("Form data submitted:", this.state.formData);
   };
 

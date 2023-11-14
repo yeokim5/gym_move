@@ -9,46 +9,61 @@ const ExerciseGridForm = ({
   setExerciseList,
   exerciseListIndex,
   setExerciseListIndex,
+  showPopup,
+  popupContent,
+  setShowPopup,
+  setPopupContent,
 }) => {
   const [selectedKey, setSelectedKey] = useState("");
-  const [showPopup, setShowPopup] = useState(false);
-  const [popupContent, setPopupContent] = useState("");
   const selectWorkoutRefs = useRef([]);
 
   const handleClick = (key) => {
     setSelectedKey(key);
   };
 
-  const handleExerciseClick = (exercise) => {
-    setPopupContent(exercise.link);
-    setShowPopup(true);
+  const handleMouseUp = () => {
+    setShowPopup(false);
   };
 
-  const handleMouseUp = () => {
+  const handlePopupImageClick = () => {
     setShowPopup(false);
   };
 
   const handleTouchStart = (exercise, event) => {
     // Prevent the default touch behavior to avoid issues with touch events
     event.preventDefault();
-    handleExerciseClick(exercise);
+    handleExerciseClick(exercise, event);
+  };
+
+  useEffect(() => {
+    document.addEventListener("mouseup", handleMouseUp);
+    document.addEventListener("touchend", handleMouseUp);
+    document.addEventListener("click", handlePopupImageClick);
+
+    return () => {
+      document.removeEventListener("mouseup", handleMouseUp);
+      document.removeEventListener("touchend", handleMouseUp);
+      document.removeEventListener("click", handlePopupImageClick);
+    };
+  }, []);
+
+  const handleExerciseClick = (exercise, event) => {
+    // Prevent the default behavior to avoid issues with touch events
+    event.preventDefault();
+
+    // Toggle the popup visibility on button click
+    setShowPopup((prev) => !prev);
+
+    // Set the popup content only if showing the popup
+    if (!showPopup) {
+      setPopupContent(exercise.link);
+    }
   };
 
   useEffect(() => {
     if (selectWorkoutRefs.current) {
       selectWorkoutRefs.current[0].click(); // Click the first element only
     }
-  }, []);
-
-  useEffect(() => {
-    // Add an event listener for mouseup and touchend to close the popup
-    document.addEventListener("mouseup", handleMouseUp);
-    document.addEventListener("touchend", handleMouseUp);
-    return () => {
-      // Cleanup the event listeners when the component unmounts
-      document.removeEventListener("mouseup", handleMouseUp);
-      document.removeEventListener("touchend", handleMouseUp);
-    };
   }, []);
 
   return (
@@ -88,7 +103,7 @@ const ExerciseGridForm = ({
                 {exercise.name}
                 <button
                   type="button"
-                  onMouseDown={() => handleExerciseClick(exercise)}
+                  onMouseDown={(event) => handleExerciseClick(exercise, event)}
                   onTouchStart={(event) => handleTouchStart(exercise, event)}
                   onClick={(e) => {
                     e.stopPropagation();
@@ -101,13 +116,6 @@ const ExerciseGridForm = ({
           </div>
         )}
       </div>
-      {showPopup && (
-        <div className="exercise-popup">
-          <div className="popup-image-container">
-            <img src={popupContent} alt="Exercise" loading="lazy" />
-          </div>
-        </div>
-      )}
     </div>
   );
 };

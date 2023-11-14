@@ -3,6 +3,8 @@ import AddWorkoutForm from "./AddWorkoutForm";
 import "../css/Test.css";
 const Test = ({ workouts }) => {
   const [isFormVisible, setFormVisible] = useState(false);
+  const [showPopup, setShowPopup] = useState(false);
+  const [popupContent, setPopupContent] = useState("");
 
   // Add your form refs here (focusRef, exerciseNameRef, setsRef, repsRef)
 
@@ -51,12 +53,48 @@ const Test = ({ workouts }) => {
       <button onClick={openModal} className="button-28">
         Create Routine
       </button>
-
       <div style={modalStyle} className="modal">
         <div style={modalContentStyle} className="modal-content">
-          <AddWorkoutForm closeModal={closeModal} closeStyle={closeStyle} />
+          <AddWorkoutForm
+            closeModal={closeModal}
+            closeStyle={closeStyle}
+            setShowPopup={setShowPopup}
+            setPopupContent={setPopupContent}
+            showPopup={showPopup}
+            popupContent={popupContent}
+          />
         </div>
       </div>
+      <div>image</div>
+
+      {showPopup && (
+        <div
+          className="exercise-popup"
+          style={{
+            position: "fixed",
+            bottom: 10, // Set the distance from the bottom
+            right: 10, // Set the distance from the right
+            width: 300, // Set the width of the popup
+            height: 300, // Set the height of the popup
+            backgroundColor: "#fff",
+            borderRadius: "5px",
+            boxShadow: "0px 0px 10px rgba(0, 0, 0, 0.2)",
+            zIndex: 999,
+          }}
+        >
+          <div
+            className="popup-image-container"
+            onClick={() => setShowPopup(false)} // Close the popup on click
+          >
+            <img
+              src={popupContent}
+              alt="Exercise"
+              loading="lazy"
+              style={{ width: "100%", height: "100%", objectFit: "cover" }} // Adjust image styles
+            />
+          </div>
+        </div>
+      )}
     </>
   );
 };
