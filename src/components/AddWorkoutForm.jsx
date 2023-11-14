@@ -86,6 +86,7 @@ const AddWorkoutForm = ({
   showPopup,
   popupContent,
   setPopupContent,
+  isFormVisible,
 }) => {
   const formRef = useRef();
   const focusRef = useRef();
@@ -97,15 +98,18 @@ const AddWorkoutForm = ({
 
   useEffect(() => {
     if (!isSubmitting) {
+      console.log("is submitting triggered");
       closeModal();
     }
   }, [isSubmitting]);
 
   useEffect(() => {
+    console.log("isFormVisible");
+
     formRef.current.reset();
     setExerciseList([]);
     setExerciseListIndex([]);
-  }, [closeModal]);
+  }, [isFormVisible]);
 
   return (
     <Container>

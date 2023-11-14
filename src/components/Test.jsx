@@ -58,6 +58,7 @@ const Test = ({ workouts }) => {
           <AddWorkoutForm
             closeModal={closeModal}
             closeStyle={closeStyle}
+            isFormVisible={isFormVisible}
             setShowPopup={setShowPopup}
             setPopupContent={setPopupContent}
             showPopup={showPopup}
@@ -65,7 +66,6 @@ const Test = ({ workouts }) => {
           />
         </div>
       </div>
-      <div>image</div>
 
       {showPopup && (
         <div

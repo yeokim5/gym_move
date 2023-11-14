@@ -3,7 +3,7 @@ import exerciseDB from "../DB/exercise.json";
 import "../css/ExerciseGridForm.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faImage } from "@fortawesome/free-solid-svg-icons";
-
+import { ToastContainer, toast } from "react-toastify";
 const ExerciseGridForm = ({
   exerciseList,
   setExerciseList,
@@ -25,8 +25,12 @@ const ExerciseGridForm = ({
     setShowPopup(false);
   };
 
-  const handlePopupImageClick = () => {
-    setShowPopup(false);
+  const handlePopupImageClick = (event) => {
+    if (!event.target.closest(".exercise-popup")) {
+      setShowPopup(false);
+    } else {
+      event.preventDefault(); // Prevent the default behavior to avoid unwanted resets
+    }
   };
 
   const handleTouchStart = (exercise, event) => {
@@ -34,22 +38,26 @@ const ExerciseGridForm = ({
     event.preventDefault();
     handleExerciseClick(exercise, event);
   };
-
   useEffect(() => {
     document.addEventListener("mouseup", handleMouseUp);
-    document.addEventListener("touchend", handleMouseUp);
-    document.addEventListener("click", handlePopupImageClick);
+    document.addEventListener("touchend", handleMouseUp, { passive: false });
+    document.addEventListener("click", handlePopupImageClick, true); // true for capturing phase
 
     return () => {
       document.removeEventListener("mouseup", handleMouseUp);
-      document.removeEventListener("touchend", handleMouseUp);
-      document.removeEventListener("click", handlePopupImageClick);
+      document.removeEventListener("touchend", handleMouseUp, {
+        passive: false,
+      });
+      document.removeEventListener("click", handlePopupImageClick, true);
     };
   }, []);
 
   const handleExerciseClick = (exercise, event) => {
-    // Prevent the default behavior to avoid issues with touch events
-    event.preventDefault();
+    // Check if the click target is the image button
+    if (event.target.tagName.toLowerCase() === "button") {
+      event.preventDefault();
+      return;
+    }
 
     // Toggle the popup visibility on button click
     setShowPopup((prev) => !prev);
@@ -98,6 +106,8 @@ const ExerciseGridForm = ({
                       exercise.index,
                     ]);
                   }
+                  // toast(`${exercise.name} added`);
+                  console.log(exerciseList);
                 }}
               >
                 {exercise.name}
