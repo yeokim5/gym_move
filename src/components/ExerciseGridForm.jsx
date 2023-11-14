@@ -106,7 +106,7 @@ const ExerciseGridForm = ({
                       exercise.index,
                     ]);
                   }
-                  // toast(`${exercise.name} added`);
+                  toast(`${exercise.name} added`);
                   console.log(exerciseList);
                 }}
               >
