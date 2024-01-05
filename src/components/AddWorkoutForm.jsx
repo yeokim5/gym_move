@@ -26,12 +26,22 @@ const SubHeader = styled.h3`
   color: #555;
 `;
 
+/* CSS */
+
 const CloseButton = styled.span`
   position: absolute;
   top: 10px;
-  right: 10px;
-  font-size: 24px;
+  font-size: 100px;
+  margin-bottom: 10px;
   cursor: pointer;
+
+  @media (max-width: 768px) {
+    left: 85%;
+  }
+
+  @media (min-width: 769px) {
+    right: -10px;
+  }
 `;
 
 const Label = styled.label`
@@ -114,11 +124,12 @@ const AddWorkoutForm = ({
   return (
     <Container>
       <CloseButton style={closeStyle} className="close" onClick={closeModal}>
-        &times;
+        <div className="button-24">X</div>
       </CloseButton>
       <Header>Create a New Workout Routine</Header>
       <fetcher.Form method="post" ref={formRef}>
         <Label htmlFor="routine_name">Routine Name</Label>
+        <br />
         <Input
           type="text"
           name="routine_name"
@@ -136,12 +147,16 @@ const AddWorkoutForm = ({
           required
           placeholder="Routine Description"
         />
+
         {exerciseList.length > 0 && (
           <SubHeader>
             Saved Workout: {exerciseList.join(", ")}
             <CheckmarkIcon>✔</CheckmarkIcon>
           </SubHeader>
         )}
+        <Button type="submit">
+          <span>Create Routine</span>
+        </Button>
         <ExerciseGridForm
           exerciseList={exerciseList}
           setExerciseList={setExerciseList}
@@ -154,10 +169,6 @@ const AddWorkoutForm = ({
         />
         <input type="hidden" name="exercise" value={exerciseListIndex} />
         <input type="hidden" name="_action" value="newWorkout" />
-
-        <Button type="submit">
-          <span>Create Routine</span>
-        </Button>
       </fetcher.Form>
     </Container>
   );

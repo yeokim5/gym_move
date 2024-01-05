@@ -73,7 +73,7 @@ const ExerciseGridForm = ({
       selectWorkoutRefs.current[0].click(); // Click the first element only
     }
   }, []);
-
+  window.addEventListener("contextmenu", (e) => e.preventDefault());
   return (
     <div className="exercise-grid-form">
       <div className="body-names">
@@ -93,38 +93,42 @@ const ExerciseGridForm = ({
           <div className="scrollable-container">
             {exerciseDB[selectedKey].map((exercise, index) => (
               <React.Fragment key={index}>
-                <div
-                  id={exercise.id}
-                  className="grid-item"
-                  onClick={() => {
-                    if (!exerciseList.includes(exercise.name)) {
-                      setExerciseList([...exerciseList, exercise.name]);
-                    }
-                    if (!exerciseListIndex.includes(exercise.index)) {
-                      setExerciseListIndex([
-                        ...exerciseListIndex,
-                        exercise.index,
-                      ]);
-                    }
-                    toast(`${exercise.name} added`);
-                    console.log(exerciseList);
-                  }}
-                >
-                  {exercise.name}
-                </div>
-                <div className="button-container">
-                  <button
-                    type="button"
-                    onMouseDown={(event) =>
-                      handleExerciseClick(exercise, event)
-                    }
-                    onTouchStart={(event) => handleTouchStart(exercise, event)}
-                    onClick={(e) => {
-                      e.stopPropagation();
+                <div className="list_container">
+                  <div
+                    id={exercise.id}
+                    className="grid-item"
+                    onClick={() => {
+                      if (!exerciseList.includes(exercise.name)) {
+                        setExerciseList([...exerciseList, exercise.name]);
+                      }
+                      if (!exerciseListIndex.includes(exercise.index)) {
+                        setExerciseListIndex([
+                          ...exerciseListIndex,
+                          exercise.index,
+                        ]);
+                      }
+                      toast(`${exercise.name} added`);
+                      console.log(exerciseList);
                     }}
                   >
-                    <FontAwesomeIcon icon={faImage} />
-                  </button>
+                    {exercise.name}
+                  </div>
+                  <div className="button-container">
+                    <div
+                      class="button-18"
+                      onMouseDown={(event) =>
+                        handleExerciseClick(exercise, event)
+                      }
+                      onTouchStart={(event) =>
+                        handleTouchStart(exercise, event)
+                      }
+                      onClick={(e) => {
+                        e.stopPropagation();
+                      }}
+                    >
+                      <FontAwesomeIcon icon={faImage} />
+                    </div>
+                  </div>
                 </div>
               </React.Fragment>
             ))}

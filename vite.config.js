@@ -5,4 +5,7 @@ import react from "@vitejs/plugin-react-swc";
 export default defineConfig({
   plugins: [react()],
   base: "/gym_move/",
+  optimizeDeps: {
+    exclude: ["js-big-decimal"],
+  },
 });

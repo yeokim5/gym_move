@@ -65,9 +65,12 @@ const WorkoutPage = () => {
       setSelectedCards([...selectedCard, index]);
     }
   };
+
+  window.addEventListener("contextmenu", (e) => e.preventDefault());
+
   return (
-    <div>
-      <h1>{routine.name}</h1>
+    <div className="noselect">
+      <h1 style={{ marginLeft: "20px" }}>{routine.name}</h1>
       <div className="exercise-container">
         {selectedExercises.map((exercise, index) => (
           <div
@@ -76,7 +79,12 @@ const WorkoutPage = () => {
             onClick={() => handleCardClick(index)}
           >
             <h2>{exercise.name}</h2>
-            <img src={exercise.link} alt={exercise.name} loading="lazy" />
+            <img
+              src={exercise.link}
+              alt={exercise.name}
+              loading="lazy"
+              style={{ userSelect: "none", pointerEvents: "none" }}
+            />
           </div>
         ))}
       </div>

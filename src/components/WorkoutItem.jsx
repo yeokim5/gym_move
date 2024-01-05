@@ -24,13 +24,13 @@ const WorkoutItem = ({ workout }) => {
     <div className="workout-card">
       <div className="workout-info">
         <Link to={`/gym_move/workout/${workout.id}`} className="workout-name">
-          {workout.name}
+          <div className="button-28">{workout.name}</div>
         </Link>
         <fetcher.Form method="post" className="delete-form">
           <input type="hidden" name="_action" value="deleteRoutine" />
           <input type="hidden" name="routineId" value={workout.id} />
           <button type="submit" className="delete-button">
-            {`Delete ${workout.name}`}
+            <div>{`Delete ${workout.name}`}</div>
           </button>
         </fetcher.Form>
       </div>

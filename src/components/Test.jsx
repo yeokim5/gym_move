@@ -31,7 +31,7 @@ const Test = ({ workouts }) => {
     top: "50%",
     left: "50%",
     transform: "translate(-50%, -50%)",
-    width: "60%", // Adjust the width as needed
+    width: "90%", // Adjust the width as needed
     maxHeight: "90%", // Adjust the maximum height as needed
     overflow: "auto", // Add overflow to handle content that exceeds the modal size
     backgroundColor: "#fff",
@@ -47,6 +47,8 @@ const Test = ({ workouts }) => {
     fontSize: "20px",
     cursor: "pointer",
   };
+  const isMobileView = window.innerWidth <= 600;
+  const myComponent = () => <Img src={popupContent} />;
 
   return (
     <>
@@ -72,10 +74,10 @@ const Test = ({ workouts }) => {
           className="exercise-popup"
           style={{
             position: "fixed",
-            bottom: 10, // Set the distance from the bottom
+            top: 10, // Set the distance from the bottom
             right: 10, // Set the distance from the right
-            width: 300, // Set the width of the popup
-            height: 300, // Set the height of the popup
+            width: isMobileView ? 250 : 500,
+            height: isMobileView ? 250 : 500,
             backgroundColor: "#fff",
             borderRadius: "5px",
             boxShadow: "0px 0px 10px rgba(0, 0, 0, 0.2)",
@@ -86,12 +88,29 @@ const Test = ({ workouts }) => {
             className="popup-image-container"
             onClick={() => setShowPopup(false)} // Close the popup on click
           >
-            <img
-              src={popupContent}
-              alt="Exercise"
-              loading="lazy"
-              style={{ width: "100%", height: "100%", objectFit: "cover" }} // Adjust image styles
-            />
+            <div
+              style={{ position: "relative", width: "100%", height: "100%" }}
+            >
+              <div className="img-container" style={{ position: "relative" }}>
+                <img
+                  src={popupContent}
+                  alt="Exercise"
+                  loading="lazy"
+                  style={{ width: "100%", height: "100%", objectFit: "cover" }}
+                />
+                <h1
+                  style={{
+                    position: "absolute",
+                    top: "80%",
+                    left: "50%",
+                    transform: "translate(-50%, -50%)",
+                    zIndex: "-1",
+                  }}
+                >
+                  Loading...
+                </h1>
+              </div>
+            </div>
           </div>
         </div>
       )}
