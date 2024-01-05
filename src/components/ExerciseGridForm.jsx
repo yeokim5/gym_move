@@ -92,36 +92,41 @@ const ExerciseGridForm = ({
         {selectedKey !== "" && (
           <div className="scrollable-container">
             {exerciseDB[selectedKey].map((exercise, index) => (
-              <div
-                key={index}
-                id={exercise.id}
-                className="grid-item"
-                onClick={() => {
-                  if (!exerciseList.includes(exercise.name)) {
-                    setExerciseList([...exerciseList, exercise.name]);
-                  }
-                  if (!exerciseListIndex.includes(exercise.index)) {
-                    setExerciseListIndex([
-                      ...exerciseListIndex,
-                      exercise.index,
-                    ]);
-                  }
-                  toast(`${exercise.name} added`);
-                  console.log(exerciseList);
-                }}
-              >
-                {exercise.name}
-                <button
-                  type="button"
-                  onMouseDown={(event) => handleExerciseClick(exercise, event)}
-                  onTouchStart={(event) => handleTouchStart(exercise, event)}
-                  onClick={(e) => {
-                    e.stopPropagation();
+              <React.Fragment key={index}>
+                <div
+                  id={exercise.id}
+                  className="grid-item"
+                  onClick={() => {
+                    if (!exerciseList.includes(exercise.name)) {
+                      setExerciseList([...exerciseList, exercise.name]);
+                    }
+                    if (!exerciseListIndex.includes(exercise.index)) {
+                      setExerciseListIndex([
+                        ...exerciseListIndex,
+                        exercise.index,
+                      ]);
+                    }
+                    toast(`${exercise.name} added`);
+                    console.log(exerciseList);
                   }}
                 >
-                  <FontAwesomeIcon icon={faImage} />
-                </button>
-              </div>
+                  {exercise.name}
+                </div>
+                <div className="button-container">
+                  <button
+                    type="button"
+                    onMouseDown={(event) =>
+                      handleExerciseClick(exercise, event)
+                    }
+                    onTouchStart={(event) => handleTouchStart(exercise, event)}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                    }}
+                  >
+                    <FontAwesomeIcon icon={faImage} />
+                  </button>
+                </div>
+              </React.Fragment>
             ))}
           </div>
         )}

@@ -1,0 +1,14 @@
+해야될거 detail:::::
+1))) create routine form : 
+	= 일다 급하게 픽셀로 함:  화면 overflow 고치기
+	=  일단 완벽하진 안은데 대충 함: mobile friendly
+2))) CSS:
+css flow 그려 그다음 chat gpt 
+"Take a deep breath and work on this problem step-by-step. , with all of my provided code, update the file's design with react style component css to be looking absolutly astonishing and beautiful with modern design, all of the designs should be similart theme "
+	> react card component
+	> time etc(check notion page)
+---------------------------------------------------------------------------------------------------------------
+submit form flow :::::
+submite from addworkoutform -> dashboard 에서 loader handle -> dashboard에서 _action의 value 에따른 lc handle
+-> helper.js에서의 function으로 lc에 add
+---------------------------------------------------------------------------------------------------------------
