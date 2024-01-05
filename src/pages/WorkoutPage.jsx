@@ -67,10 +67,15 @@ const WorkoutPage = () => {
   };
 
   window.addEventListener("contextmenu", (e) => e.preventDefault());
+  console.log(routine);
 
   return (
     <div className="noselect">
       <h1 style={{ marginLeft: "20px" }}>{routine.name}</h1>
+      <h3 style={{ marginLeft: "20px" }}>{routine.descriptions}</h3>
+      <hr />
+      <p>Click the workout-card if you finished</p>
+
       <div className="exercise-container">
         {selectedExercises.map((exercise, index) => (
           <div
