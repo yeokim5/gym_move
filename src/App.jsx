@@ -38,6 +38,7 @@ const router = createBrowserRouter([
 function App() {
   return (
     <div className="App">
+      {/* <div className="App" style={{ width: "90%" }}> */}
       <RouterProvider router={router} />
       <ToastContainer />
     </div>

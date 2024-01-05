@@ -115,7 +115,7 @@ const ExerciseGridForm = ({
                   </div>
                   <div className="button-container">
                     <div
-                      class="button-18"
+                      className="button-18"
                       onMouseDown={(event) =>
                         handleExerciseClick(exercise, event)
                       }

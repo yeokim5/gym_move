@@ -1,5 +1,6 @@
 import React, { useState, useRef } from "react";
 import AddWorkoutForm from "./AddWorkoutForm";
+import { useSpring, animated } from "react-spring";
 import "../css/Test.css";
 const Test = ({ workouts }) => {
   const [isFormVisible, setFormVisible] = useState(false);
@@ -48,7 +49,9 @@ const Test = ({ workouts }) => {
     cursor: "pointer",
   };
   const isMobileView = window.innerWidth <= 600;
-  const myComponent = () => <Img src={popupContent} />;
+  const props = useSpring({
+    loop: true,
+  });
 
   return (
     <>
@@ -92,11 +95,17 @@ const Test = ({ workouts }) => {
               style={{ position: "relative", width: "100%", height: "100%" }}
             >
               <div className="img-container" style={{ position: "relative" }}>
-                <img
+                {/* <img
                   src={popupContent}
                   alt="Exercise"
                   loading="lazy"
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
+                /> */}
+                <animated.img
+                  style={props}
+                  src={popupContent}
+                  alt="Exercise"
+                  loading="lazy"
                 />
                 <h1
                   style={{
